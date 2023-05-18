@@ -20,7 +20,9 @@ Dados complementares: Datas das campanhas de Marketing, Ações ou dados do conc
 ![image](https://github.com/tom-ubaraujo/Projeto-LABDATA/assets/18190411/d1953905-2cc9-4aad-8fe1-3d18d012324f)
 
 
-## 4) IMAGEM DOCKER (SO SERA COBRADO QUANDO HOUVER A AULA QUARTA)
+## 4) IMAGEM DOCKER 
 
+Airflow
+Nifi
 
-## 5) SUBIR NO GIT (SO SERA COBRADO QUANDO HOUVER A AULA QUARTA)
+## 5) SUBIR NO GIT 

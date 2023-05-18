@@ -4,7 +4,7 @@ Projeto Tecnologias de Big Data e Inteligência Artificial - Amauri
 Membros:
 Tayssa, 
 Fábio S (DA), 
- Araújo (DA), 
+Ugleiston Araújo (DA), 
 Paulo Franco (ED), 
 Marcelo Neves (ED)
 

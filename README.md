@@ -22,7 +22,7 @@ Dados complementares: Datas das campanhas de Marketing, Ações ou dados do conc
 
 ## 4) IMAGEM DOCKER 
 
-Airflow
+Airflow,
 Nifi
 
 ## 5) SUBIR NO GIT 

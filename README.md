@@ -13,7 +13,7 @@ Marcelo Neves (ED)
 
 ## 2) DEFINIÇÃO INGESTÃO EM DADOS (LOCAL DA ORIGEM, PODE JA EXISTIR OU PODE SER GERADO)
 
-Redes Sociais:  Estudar possibilidade de acessar dados através de APIs das plataformas do Twitter, Facebook, Linkedin, Google Pesquisas, Discord, Sites da marca, Instagram, Youtube, Tik Tok. 
+Redes Sociais:  Acessar dados através de APIs do Twitter
 Dados complementares: Datas das campanhas de Marketing, Ações ou dados do concorrente;
  
 ## 3) DEFINIÇÃO ARQUITETURA (DESENHO NO MINIMO DE 2 PARTES DO TODO INGESTÃO E AMAZENAMENTO)

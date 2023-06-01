@@ -52,6 +52,7 @@ while True:
             df_covid = pd.DataFrame(all_data)
             file_name = f"datasus_imunizacao_{file_number:05d}"
             
+            print(f'upload file {file_name}')
             wr.s3.to_parquet(
                 df = df_covid,
                 path = f"s3://data-lake-fia-tier-1/raw-data/datasus-imunizacao/{file_name}")

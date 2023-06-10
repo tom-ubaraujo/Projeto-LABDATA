@@ -10,8 +10,8 @@
 -- MAGIC %python
 -- MAGIC
 -- MAGIC # Credentials to access data-lake-fia bucket on s3
--- MAGIC ACCESS_KEY = "AKIAQJ2IVF6JBGLXOBEF"
--- MAGIC SECRET_KEY = "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"
+-- MAGIC ACCESS_KEY = "xxxxxxx"
+-- MAGIC SECRET_KEY = "xxxxxxxxx"
 
 -- COMMAND ----------
 
